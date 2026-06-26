@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vid-csharp",
+    "title": "C# Variables and Data Types Tutorial for Beginners | Complete Guide",
+    "event": "YouTube Tutorial",
+    "topics": [
+      "C#",
+      "Programming"
+    ],
+    "audience": "Beginners",
+    "description": "Complete guide on C# variables and data types for absolute beginners.",
+    "duration": "10:00",
+    "thumbnail": "public/assets/data/Images/csharp-variables-thumbnail.jpg",
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/N0yX_oQA2E0"
+  },
+  {
+    "id": "vid-figma",
+    "title": "Figma Setup in 5 Minutes – Beginners Guide (Ep 2 | NanoCoders)",
+    "event": "NanoCoders",
+    "topics": [
+      "Figma",
+      "UI/UX Design"
+    ],
+    "audience": "Beginners",
+    "description": "A quick 5-minute setup guide for beginners getting started with Figma.",
+    "duration": "5:00",
+    "thumbnail": "public/assets/data/Images/figma-setup-thumbnail.jpg",
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/JaCub7lqxqw"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ach-1",
+    "title": "Future Leaders Award Winner",
+    "event": "ITCN Asia (International)",
+    "date": "Jan 2026",
+    "location": "Global / Asia",
+    "category": "Award",
+    "description": "Honored with the Future Leaders Award at ITCN Asia for outstanding contributions to technology and youth empowerment. (International Award)",
+    "image": "public/assets/data/Images/DSC05583.JPG",
+    "span": "col-span-2 row-span-2"
+  },
+  {
+    "id": "ach-2",
+    "title": "Kidspreneurship Excellence Shield",
+    "event": "National Tech Summit",
+    "date": "2023",
+    "location": "Pakistan",
+    "category": "Award",
+    "description": "National award for fostering entrepreneurship and technology skills among youth. (National Award)",
+    "image": "public/assets/data/Images/kids ai.jpeg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "id": "ach-4",
+    "title": "Speaker: Motivation & Closing",
+    "event": "Kidspreneurship Day",
+    "date": "2023",
+    "location": "Durshal Mardan, Pakistan",
+    "category": "Speaking",
+    "description": "Concluded the Kidspreneurship Day with a motivational closing keynote for young tech enthusiasts.",
+    "image": "public/assets/data/Images/Speaking.jpeg",
+    "span": "col-span-1 row-span-1"
+  },
+  {
+    "id": "ach-5",
+    "title": "CEO & Founder",
+    "event": "Nano Coders",
+    "date": "Present",
+    "location": "Pakistan",
+    "category": "Leadership",
+    "description": "Leading an innovative EdTech platform dedicated to transforming coding into an engaging learning pathway.",
+    "image": "public/assets/data/Images/ziyam-photo.jpg",
+    "span": "col-span-2 row-span-1"
+  }
+]

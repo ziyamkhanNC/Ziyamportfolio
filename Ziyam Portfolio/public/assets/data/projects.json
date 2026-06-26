@@ -1,0 +1,157 @@
+[
+  {
+    "id": "nanocoders",
+    "title": "Nano Coders",
+    "tagline": "Next-Generation EdTech & Coding Ecosystem for Youth",
+    "category": "EdTech",
+    "heroImage": "public/assets/data/Images/G0041147.JPG",
+    "description": "An award-winning EdTech platform and tech academy transforming coding into gamified, hands-on learning pathways.",
+    "problem": "Traditional computer science education relies heavily on rote memorization and outdated syntaxes, leaving young students disengaged.",
+    "solution": "Built an interactive, project-driven web platform combined with live mentorship cohorts. Students build real-world web apps and games from day one.",
+    "technologies": [
+      "React",
+      "Node.js",
+      "Tailwind CSS",
+      "TypeScript"
+    ],
+    "features": [
+      "Interactive live coding sandbox",
+      "Gamified milestone progression",
+      "Integrated mentor feedback loop"
+    ],
+    "timeline": "2022 - Present",
+    "challenges": "Scaling real-time code evaluation for hundreds of concurrent students.",
+    "results": [
+      "Empowered young students",
+      "Recognized by top national startup incubators"
+    ],
+    "github": "https://github.com/ziyamkhan",
+    "liveDemo": "#",
+    "caseStudy": "NanoCoders rapidly scaled into a nationwide movement, enabling students to learn modern technologies."
+  },
+  {
+    "id": "kidspreneurship",
+    "title": "Kidspreneurship Bootcamp",
+    "tagline": "Empowering Young Minds with Tech & Entrepreneurship",
+    "category": "EdTech",
+    "heroImage": "public/assets/data/Images/Kidspreneurship Bootcamp.jpeg",
+    "description": "A comprehensive bootcamp hosted at The Mardan Lyceum to teach students about technology and entrepreneurship.",
+    "problem": "Lack of practical tech and business education at an early age.",
+    "solution": "Designed and led a series of interactive workshops ranging from 'Curiosity to Creation' to motivational tech talks.",
+    "technologies": [
+      "Curriculum Design",
+      "Public Speaking",
+      "Mentorship"
+    ],
+    "features": [
+      "Live presentations",
+      "Interactive Q&A",
+      "Project building fundamentals"
+    ],
+    "timeline": "2023",
+    "challenges": "Keeping young students engaged with complex technical concepts.",
+    "results": [
+      "Successfully trained dozens of students",
+      "Fostered an entrepreneurial mindset in youth"
+    ],
+    "github": "https://github.com/ziyamkhan",
+    "liveDemo": "#",
+    "caseStudy": "The event concluded with high praise and a shield of appreciation for outstanding mentorship."
+  },
+  {
+    "id": "library-management",
+    "title": "School Library Management",
+    "tagline": "C# OOP Console Application for School Library",
+    "category": "Backend",
+    "heroImage": "public/assets/data/Images/ChatGPT Image Jun 26, 2026, 04_46_29 PM.png",
+    "description": "A functional C# console application that successfully manages school library books utilizing Object-Oriented Programming principles.",
+    "problem": "Needed an efficient way to track and manage school library books in a text-based interface without relying on external databases.",
+    "solution": "Built a Command-Line Interface (CLI) application with a main menu using C# Object-Oriented Programming (Classes). Implemented custom, reusable methods and robust error handling.",
+    "technologies": [
+      "C#",
+      ".NET",
+      "OOP",
+      "CLI"
+    ],
+    "features": [
+      "Iterative main menu using loops",
+      "Custom reusable methods",
+      "Graceful error handling",
+      "Object-Oriented Design"
+    ],
+    "timeline": "Recent",
+    "challenges": "Ensuring correct usage of control structures and maintaining clean code execution.",
+    "results": [
+      "Robust and resilient CLI app",
+      "Clean modular code"
+    ],
+    "github": "#",
+    "liveDemo": "#",
+    "caseStudy": "The project successfully utilized control structures and loops to direct logic flow and maintain app persistence."
+  },
+  {
+    "id": "inventory-system",
+    "title": "Inventory Management System",
+    "tagline": "Robust CLI tool to track products and stock levels",
+    "category": "Backend",
+    "heroImage": "public/assets/data/Images/image.png",
+    "description": "A C# console-based inventory management system that tracks products, stock levels, and prices while ensuring robust input validation.",
+    "problem": "Required a CLI-driven system to track products with strict functional requirements for adding, updating, viewing, and removing products without crashing on bad input.",
+    "solution": "Developed a C# OOP application that uses loops and control structures for the main menu. Implemented AddProduct and UpdateStock methods with strict numeric validation.",
+    "technologies": [
+      "C#",
+      ".NET",
+      "OOP",
+      "CLI"
+    ],
+    "features": [
+      "Add products (name, price, stock)",
+      "Update stock levels",
+      "View formatted list of tracked products",
+      "Remove products completely",
+      "Graceful input validation"
+    ],
+    "timeline": "Recent",
+    "challenges": "Validating inputs gracefully to ensure numeric values are provided for prices and stock so the program does not crash.",
+    "results": [
+      "Met all functional requirements",
+      "Bug-free execution"
+    ],
+    "github": "#",
+    "liveDemo": "#",
+    "caseStudy": "Demonstrated mastery of C# control structures, error handling, and object-oriented design."
+  },
+  {
+    "id": "peshawar-todo",
+    "title": "Peshawar Todo List",
+    "tagline": "Clean Todo List app built with Vanilla JS",
+    "category": "Web Development",
+    "heroImage": "public/assets/data/Images/peshawar todo list.jpeg",
+    "description": "A simple and clean Todo List app built while learning Full Stack Development with the Meta Professional Certificate on Coursera.",
+    "problem": "Needed a practical project to apply HTML, CSS, and Vanilla JavaScript while managing states locally.",
+    "solution": "Built a responsive web app using Vanilla JavaScript that saves tasks to localStorage to persist after refresh.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "localStorage"
+    ],
+    "features": [
+      "Add new tasks",
+      "Mark tasks as done",
+      "Delete tasks",
+      "Filter: All / Active / Completed",
+      "Tasks saved with localStorage",
+      "Responsive design"
+    ],
+    "timeline": "Recent",
+    "challenges": "Handling state and filtering tasks efficiently without a framework.",
+    "results": [
+      "Clean UI",
+      "Fully functional task management"
+    ],
+    "github": "https://github.com/ziyamkhanNC/Peshawar-todo-list.git",
+    "liveDemo": "https://github.com/ziyamkhanNC/Peshawar-todo-list.git",
+    "caseStudy": "Next steps include upgrading to a React.js Frontend and C# ASP.NET Core Web API Backend with a Database + Weather API for Peshawar. Built as part of the MicroSoft Full Stack Developer Certificate Project."
+  }
+]

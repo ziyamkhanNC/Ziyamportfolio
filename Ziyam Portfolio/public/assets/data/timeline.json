@@ -1,0 +1,58 @@
+[
+  {
+    "year": "2018",
+    "title": "The Beginning",
+    "subtitle": "Started my journey into programming",
+    "category": "Foundation",
+    "description": "Started my journey into programming by learning the fundamentals of coding and building my first web projects. This marked the beginning of my passion for technology."
+  },
+  {
+    "year": "2019 - 2021",
+    "title": "Building the Foundation",
+    "subtitle": "HTML, CSS, JS, Python, UI/UX",
+    "category": "Growth",
+    "description": "Expanded my knowledge of HTML, CSS, JavaScript, Python, UI/UX design, and graphic design while developing personal projects and strengthening my technical skills."
+  },
+  {
+    "year": "2022 - 2023",
+    "title": "Exploring Software Development",
+    "subtitle": "Web Apps & Game Dev",
+    "category": "Innovation",
+    "description": "Worked on web applications, interactive experiences, and game development projects while continuously improving my programming and design expertise."
+  },
+  {
+    "year": "2024",
+    "title": "Junior Game Developer",
+    "subtitle": "Section Soft",
+    "category": "Experience",
+    "description": "Joined Section Soft as a Junior Game Developer, where I gained hands-on industry experience, collaborated on professional game development projects, and strengthened my understanding of real-world software development workflows."
+  },
+  {
+    "year": "2025",
+    "title": "Founded NanoCoders",
+    "subtitle": "Vision & Mission",
+    "category": "Entrepreneurship",
+    "description": "Founded NanoCoders with the vision of empowering children and teenagers through coding, game development, web development, and technology education."
+  },
+  {
+    "year": "2025 - Present",
+    "title": "Creating Impact",
+    "subtitle": "Training & Educational Initiatives",
+    "category": "Impact",
+    "description": "Trained more than 1,400 students, launched educational initiatives, developed innovative digital products, and represented NanoCoders at technology events and workshops."
+  },
+  {
+    "year": "2026",
+    "title": "Leadership & Recognition",
+    "subtitle": "National Initiatives",
+    "category": "Leadership",
+    "description": "Expanded NanoCoders, participated in national startup and technology initiatives, earned recognition as a young entrepreneur, and continued building impactful educational technology solutions."
+  },
+  {
+    "year": "The Future",
+    "title": "Building the Next Generation",
+    "subtitle": "Global EdTech Vision",
+    "category": "Vision",
+    "description": "Scale NanoCoders into a globally recognized EdTech company, create world-class educational products, inspire millions of young learners, and shape the future of technology education."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "future-leaders-award",
+    "title": "Future Leaders Award",
+    "caption": "Recognition at ITCN Asia for technology and youth empowerment.",
+    "src": "public/assets/data/Images/DSC05583.JPG"
+  },
+  {
+    "id": "kidpreneurship-session",
+    "title": "Kidpreneurship Session",
+    "caption": "A youth technology and entrepreneurship learning moment.",
+    "src": "public/assets/data/Images/kids ai.jpeg"
+  },
+  {
+    "id": "kidspreneurship-bootcamp",
+    "title": "Kidspreneurship Bootcamp",
+    "caption": "Speaking at the Kidspreneurship Bootcamp session.",
+    "src": "public/assets/data/Images/Kidspreneurship Bootcamp.jpeg"
+  },
+  {
+    "id": "school-library-management",
+    "title": "School Library Management",
+    "caption": "Dashboard design for the School Library Management system.",
+    "src": "public/assets/data/Images/ChatGPT Image Jun 26, 2026, 04_46_29 PM.png"
+  },
+  {
+    "id": "speaking-session",
+    "title": "Speaking Session",
+    "caption": "Motivational closing talk for young builders.",
+    "src": "public/assets/data/Images/Speaking.jpeg"
+  },
+  {
+    "id": "nanocoders-moment",
+    "title": "Nano Coders Moment",
+    "caption": "A Nano Coders event and community highlight.",
+    "src": "public/assets/data/Images/WhatsApp Image 2026-03-09 at 4.21.35 PM (2).jpeg"
+  },
+  {
+    "id": "ziyam-portrait",
+    "title": "Muhammad Ziyam Khan",
+    "caption": "Founder and CEO of Nano Coders.",
+    "src": "public/assets/data/Images/ziyam-photo.jpg"
+  }
+]

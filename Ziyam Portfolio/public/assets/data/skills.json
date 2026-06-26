@@ -1,0 +1,112 @@
+[
+  {
+    "id": "html",
+    "name": "HTML5 & Semantic Web",
+    "icon": "html5",
+    "category": "Frontend Architecture",
+    "level": "Expert (99%)",
+    "experience": "5+ Years",
+    "relatedProjects": ["NanoCoders", "Colour Quest", "FPS Web Game"],
+    "description": "Semantic markup, accessibility (ARIA), and SEO-optimized structures."
+  },
+  {
+    "id": "css",
+    "name": "CSS3 & Glassmorphism",
+    "icon": "css3",
+    "category": "Frontend Architecture",
+    "level": "Master (98%)",
+    "experience": "5+ Years",
+    "relatedProjects": ["NanoCoders", "Colour Quest"],
+    "description": "Fluid layouts, Tailwind CSS, backdrop blurs, and liquid glass transitions."
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript (ES6+)",
+    "icon": "javascript",
+    "category": "Core Engineering",
+    "level": "Expert (95%)",
+    "experience": "5+ Years",
+    "relatedProjects": ["NanoCoders", "Colour Quest", "FPS Web Game"],
+    "description": "Event loops, async programming, WebSockets, and functional architecture."
+  },
+  {
+    "id": "react",
+    "name": "React & Ecosystem",
+    "icon": "react",
+    "category": "Frameworks",
+    "level": "Expert (96%)",
+    "experience": "4+ Years",
+    "relatedProjects": ["NanoCoders", "CodeNJoy"],
+    "description": "Component architecture, custom hooks, state management, and SSR."
+  },
+  {
+    "id": "python",
+    "name": "Python & AI",
+    "icon": "python",
+    "category": "Backend & AI",
+    "level": "Advanced (90%)",
+    "experience": "3+ Years",
+    "relatedProjects": ["NanoCoders Curriculum", "AI Hint Assistant"],
+    "description": "Algorithm design, automation scripting, FastAPI, and AI fundamentals."
+  },
+  {
+    "id": "threejs",
+    "name": "Three.js & WebGL",
+    "icon": "threejs",
+    "category": "Creative Coding",
+    "level": "Advanced (92%)",
+    "experience": "3+ Years",
+    "relatedProjects": ["FPS Web Game", "NanoCoders 3D"],
+    "description": "Hardware-accelerated 3D graphics, shaders, and scene optimization."
+  },
+  {
+    "id": "git",
+    "name": "Git Version Control",
+    "icon": "git",
+    "category": "DevOps",
+    "level": "Expert (95%)",
+    "experience": "5+ Years",
+    "relatedProjects": ["All Repositories"],
+    "description": "Branching strategies, interactive rebasing, and dev workflows."
+  },
+  {
+    "id": "github",
+    "name": "GitHub & CI/CD",
+    "icon": "github",
+    "category": "DevOps",
+    "level": "Expert (94%)",
+    "experience": "5+ Years",
+    "relatedProjects": ["NanoCoders Platform"],
+    "description": "GitHub Actions automation, open source management, and CI/CD."
+  },
+  {
+    "id": "figma",
+    "name": "Figma & Design Systems",
+    "icon": "figma",
+    "category": "UI/UX Design",
+    "level": "Master (98%)",
+    "experience": "5+ Years",
+    "relatedProjects": ["NanoCoders Tokens", "Colour Quest UI"],
+    "description": "Auto-layout components, prototyping, and design tokens."
+  },
+  {
+    "id": "uidesign",
+    "name": "UI Design & Polish",
+    "icon": "palette",
+    "category": "UI/UX Design",
+    "level": "Award-Winning (97%)",
+    "experience": "5+ Years",
+    "relatedProjects": ["Colour Quest", "Personal Brand"],
+    "description": "Liquid glass aesthetics, typography hierarchy, and dark mode grading."
+  },
+  {
+    "id": "uxdesign",
+    "name": "UX Research",
+    "icon": "layout",
+    "category": "UI/UX Design",
+    "level": "Expert (94%)",
+    "experience": "4+ Years",
+    "relatedProjects": ["Student Journey Map"],
+    "description": "User journey mapping, wireframing, and conversion optimization."
+  }
+]

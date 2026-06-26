@@ -1,0 +1,26 @@
+[
+  {
+    "id": "test-1",
+    "quote": "Ziyam is one of the rare young founders who combines elite engineering talent with extraordinary visionary leadership. NanoCoders is fundamentally changing how software development is taught.",
+    "name": "Shafeeq Gigyani",
+    "role": "Program Manager, NIC Peshawar",
+    "avatar": "public/assets/data/Images/shafeeq gigyani.png",
+    "rating": 5
+  },
+  {
+    "id": "test-2",
+    "quote": "Before joining NanoCoders, I thought programming was impossible. Ziyam's teaching style and gamified curriculum helped me land my first developer job at just 18 years old!",
+    "name": "Kashif Ali",
+    "role": "Founder & CEO, Techkhwa",
+    "avatar": "public/assets/data/Images/kashif ali.jpeg",
+    "rating": 5
+  },
+  {
+    "id": "test-3",
+    "quote": "The liquid glass aesthetic and WebGL performance on Ziyam's web applications rival top agencies on Awwwards. Working with him elevated our conversion rate by 40%.",
+    "name": "Tahir Saddam",
+    "role": "CTO, Section Soft",
+    "avatar": "public/assets/data/Images/tahir saddam.jpeg",
+    "rating": 5
+  }
+]
